@@ -14,8 +14,8 @@ Transação: 968bf5da4efc0c491e09337f1657d95156e9680df4fa060934793410de544305
 
 ### Conecte-se comigo
 
-[Perfil DIO]: https://www.dio.me/users/frederico/
+[Perfil DIO](https://www.dio.me/users/frederico/)
 
-[LinkedIn]: https://www.linkedin.com/in/fredericolaffitte/
+[LinkedIn](https://www.linkedin.com/in/fredericolaffitte/)
 
-[GitHub]: https://github.com/FredLaffitte)
+[GitHub](https://github.com/FredLaffitte)
